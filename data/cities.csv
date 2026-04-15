@@ -1,0 +1,41 @@
+city,country,continent,air_quality,green_space,transit_score,safety_index,cost_of_living,noise_level,liveability_score
+Copenhagen,Denmark,Europe,88,82,90,85,72,35,87
+Vienna,Austria,Europe,84,79,92,88,65,32,89
+Zurich,Switzerland,Europe,82,76,91,90,48,28,88
+Amsterdam,Netherlands,Europe,75,74,88,80,58,45,84
+Helsinki,Finland,Europe,90,85,82,91,55,25,88
+Stockholm,Sweden,Europe,86,83,84,87,52,27,87
+Oslo,Norway,Europe,88,80,80,89,42,26,86
+Munich,Germany,Europe,78,72,87,83,61,38,83
+Singapore,Singapore,Asia,70,68,95,92,45,55,82
+Tokyo,Japan,Asia,65,55,97,93,50,60,80
+Seoul,South Korea,Asia,55,52,94,80,55,62,74
+Sydney,Australia,Oceania,79,70,75,78,52,42,80
+Melbourne,Australia,Oceania,81,72,72,79,53,40,79
+Toronto,Canada,North America,76,68,74,77,55,44,78
+Vancouver,Canada,North America,80,75,73,76,50,38,80
+New York,USA,North America,58,45,88,65,40,75,71
+Chicago,USA,North America,60,50,80,60,52,68,69
+San Francisco,USA,North America,72,58,72,62,38,52,72
+London,UK,Europe,62,60,89,70,45,65,74
+Paris,France,Europe,60,55,90,68,48,68,73
+Barcelona,Spain,Europe,65,52,85,65,58,65,73
+Madrid,Spain,Europe,62,50,84,67,60,63,72
+Berlin,Germany,Europe,70,65,86,74,62,55,76
+Dubai,UAE,Asia,55,28,70,88,55,60,68
+São Paulo,Brazil,South America,40,35,65,38,70,78,50
+Mumbai,India,Asia,28,22,68,42,78,82,44
+Delhi,India,Asia,20,18,62,45,82,85,38
+Jakarta,Indonesia,Asia,30,25,55,48,76,80,43
+Lagos,Nigeria,Africa,32,20,38,30,75,78,35
+Nairobi,Kenya,Africa,38,30,42,35,72,70,40
+Cairo,Egypt,Africa,28,18,50,48,80,82,41
+Mexico City,Mexico,North America,38,32,68,40,72,76,48
+Buenos Aires,Argentina,South America,52,45,70,48,68,65,58
+Bogotá,Colombia,South America,45,40,62,42,73,68,52
+Warsaw,Poland,Europe,55,58,80,72,65,52,68
+Prague,Czech Republic,Europe,62,62,82,78,66,48,73
+Budapest,Hungary,Europe,58,60,80,74,68,50,70
+Lisbon,Portugal,Europe,72,55,74,76,62,48,74
+Athens,Greece,Europe,55,40,70,68,65,62,63
+Istanbul,Turkey,Europe,48,38,75,58,70,72,58
